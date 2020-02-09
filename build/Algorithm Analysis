@@ -1,58 +1,58 @@
 
 
 Results for: 
-TestFile_0 NN: Number of Points: 6 Run: 0 Time: 0.047877 Distance: 50.41[ (X: 26 Y: 24 ) (X: 24 Y: 26 ) (X: 29 Y: 28 ) (X: 17 Y: 13 ) (X: 18 Y: 11 ) (X: 14 Y: 13 ) (X: 26 Y: 24 )]
-TestFile_0 NN: Number of Points: 6 Run: 1 Time: 0.009668 Distance: 50.41[ (X: 26 Y: 24 ) (X: 24 Y: 26 ) (X: 29 Y: 28 ) (X: 17 Y: 13 ) (X: 18 Y: 11 ) (X: 14 Y: 13 ) (X: 26 Y: 24 )]
-TestFile_0 NN: Number of Points: 6 Run: 2 Time: 0.008395 Distance: 50.41[ (X: 26 Y: 24 ) (X: 24 Y: 26 ) (X: 29 Y: 28 ) (X: 17 Y: 13 ) (X: 18 Y: 11 ) (X: 14 Y: 13 ) (X: 26 Y: 24 )]
-Average: 0.02198
-TestFile_0 EXHASUTIVE Number of Points: 6 Run: 0 Time: 0.670885 Dist: 47.2868 Permutations: 720
-TestFile_0 EXHASUTIVE Number of Points: 6 Run: 1 Time: 0.548254 Dist: 47.2868 Permutations: 720
-TestFile_0 EXHASUTIVE Number of Points: 6 Run: 2 Time: 0.758326 Dist: 47.2868 Permutations: 720
-Exhaustive Search Average: 0.659155
+TestFile_0 NN: Number of Points: 6 Run: 0 Time: 0.019969 Distance: 50.41[ (X: 26 Y: 24 ) (X: 24 Y: 26 ) (X: 29 Y: 28 ) (X: 17 Y: 13 ) (X: 18 Y: 11 ) (X: 14 Y: 13 ) (X: 26 Y: 24 )]
+TestFile_0 NN: Number of Points: 6 Run: 1 Time: 0.002546 Distance: 50.41[ (X: 26 Y: 24 ) (X: 24 Y: 26 ) (X: 29 Y: 28 ) (X: 17 Y: 13 ) (X: 18 Y: 11 ) (X: 14 Y: 13 ) (X: 26 Y: 24 )]
+TestFile_0 NN: Number of Points: 6 Run: 2 Time: 0.002212 Distance: 50.41[ (X: 26 Y: 24 ) (X: 24 Y: 26 ) (X: 29 Y: 28 ) (X: 17 Y: 13 ) (X: 18 Y: 11 ) (X: 14 Y: 13 ) (X: 26 Y: 24 )]
+Average: 0.00824233
+TestFile_0 EXHASUTIVE Number of Points: 6 Run: 0 Time: 0.595486 Dist: 47.2868 Permutations: 720
+TestFile_0 EXHASUTIVE Number of Points: 6 Run: 1 Time: 0.543319 Dist: 47.2868 Permutations: 720
+TestFile_0 EXHASUTIVE Number of Points: 6 Run: 2 Time: 0.540555 Dist: 47.2868 Permutations: 720
+Exhaustive Search Average: 0.559787
 
 Results for: 
-TestFile_1 NN: Number of Points: 9 Run: 0 Time: 0.010832 Distance: 73.752[ (X: 12 Y: 27 ) (X: 17 Y: 23 ) (X: 23 Y: 24 ) (X: 26 Y: 24 ) (X: 22 Y: 19 ) (X: 17 Y: 17 ) (X: 17 Y: 23 ) (X: 27 Y: 15 ) (X: 27 Y: 10 ) (X: 12 Y: 27 )]
-TestFile_1 NN: Number of Points: 9 Run: 1 Time: 0.006683 Distance: 73.752[ (X: 12 Y: 27 ) (X: 17 Y: 23 ) (X: 23 Y: 24 ) (X: 26 Y: 24 ) (X: 22 Y: 19 ) (X: 17 Y: 17 ) (X: 17 Y: 23 ) (X: 27 Y: 15 ) (X: 27 Y: 10 ) (X: 12 Y: 27 )]
-TestFile_1 NN: Number of Points: 9 Run: 2 Time: 0.006271 Distance: 73.752[ (X: 12 Y: 27 ) (X: 17 Y: 23 ) (X: 23 Y: 24 ) (X: 26 Y: 24 ) (X: 22 Y: 19 ) (X: 17 Y: 17 ) (X: 17 Y: 23 ) (X: 27 Y: 15 ) (X: 27 Y: 10 ) (X: 12 Y: 27 )]
-Average: 0.00792867
-TestFile_1 EXHASUTIVE Number of Points: 9 Run: 0 Time: 173.902838 Dist: 56.4024 Permutations: 181440
-TestFile_1 EXHASUTIVE Number of Points: 9 Run: 1 Time: 186.753583 Dist: 56.4024 Permutations: 181440
-TestFile_1 EXHASUTIVE Number of Points: 9 Run: 2 Time: 184.343143 Dist: 56.4024 Permutations: 181440
-Exhaustive Search Average: 181.667
+TestFile_1 NN: Number of Points: 9 Run: 0 Time: 0.006300 Distance: 73.752[ (X: 12 Y: 27 ) (X: 17 Y: 23 ) (X: 23 Y: 24 ) (X: 26 Y: 24 ) (X: 22 Y: 19 ) (X: 17 Y: 17 ) (X: 17 Y: 23 ) (X: 27 Y: 15 ) (X: 27 Y: 10 ) (X: 12 Y: 27 )]
+TestFile_1 NN: Number of Points: 9 Run: 1 Time: 0.004979 Distance: 73.752[ (X: 12 Y: 27 ) (X: 17 Y: 23 ) (X: 23 Y: 24 ) (X: 26 Y: 24 ) (X: 22 Y: 19 ) (X: 17 Y: 17 ) (X: 17 Y: 23 ) (X: 27 Y: 15 ) (X: 27 Y: 10 ) (X: 12 Y: 27 )]
+TestFile_1 NN: Number of Points: 9 Run: 2 Time: 0.004695 Distance: 73.752[ (X: 12 Y: 27 ) (X: 17 Y: 23 ) (X: 23 Y: 24 ) (X: 26 Y: 24 ) (X: 22 Y: 19 ) (X: 17 Y: 17 ) (X: 17 Y: 23 ) (X: 27 Y: 15 ) (X: 27 Y: 10 ) (X: 12 Y: 27 )]
+Average: 0.00532467
+TestFile_1 EXHASUTIVE Number of Points: 9 Run: 0 Time: 191.701713 Dist: 56.4024 Permutations: 181440
+TestFile_1 EXHASUTIVE Number of Points: 9 Run: 1 Time: 201.466220 Dist: 56.4024 Permutations: 181440
+TestFile_1 EXHASUTIVE Number of Points: 9 Run: 2 Time: 192.332382 Dist: 56.4024 Permutations: 181440
+Exhaustive Search Average: 195.167
 
 Results for: 
-TestFile_2 NN: Number of Points: 8 Run: 0 Time: 0.004946 Distance: 55.7522[ (X: 14 Y: 21 ) (X: 11 Y: 19 ) (X: 18 Y: 29 ) (X: 19 Y: 30 ) (X: 17 Y: 30 ) (X: 23 Y: 23 ) (X: 24 Y: 18 ) (X: 30 Y: 19 ) (X: 14 Y: 21 )]
-TestFile_2 NN: Number of Points: 8 Run: 1 Time: 0.004044 Distance: 55.7522[ (X: 14 Y: 21 ) (X: 11 Y: 19 ) (X: 18 Y: 29 ) (X: 19 Y: 30 ) (X: 17 Y: 30 ) (X: 23 Y: 23 ) (X: 24 Y: 18 ) (X: 30 Y: 19 ) (X: 14 Y: 21 )]
-TestFile_2 NN: Number of Points: 8 Run: 2 Time: 0.003648 Distance: 55.7522[ (X: 14 Y: 21 ) (X: 11 Y: 19 ) (X: 18 Y: 29 ) (X: 19 Y: 30 ) (X: 17 Y: 30 ) (X: 23 Y: 23 ) (X: 24 Y: 18 ) (X: 30 Y: 19 ) (X: 14 Y: 21 )]
-Average: 0.00421267
-TestFile_2 EXHASUTIVE Number of Points: 8 Run: 0 Time: 44.399417 Dist: 51.1665 Permutations: 40320
-TestFile_2 EXHASUTIVE Number of Points: 8 Run: 1 Time: 36.833489 Dist: 51.1665 Permutations: 40320
-TestFile_2 EXHASUTIVE Number of Points: 8 Run: 2 Time: 37.919292 Dist: 51.1665 Permutations: 40320
-Exhaustive Search Average: 39.7174
+TestFile_2 NN: Number of Points: 8 Run: 0 Time: 0.004460 Distance: 55.7522[ (X: 14 Y: 21 ) (X: 11 Y: 19 ) (X: 18 Y: 29 ) (X: 19 Y: 30 ) (X: 17 Y: 30 ) (X: 23 Y: 23 ) (X: 24 Y: 18 ) (X: 30 Y: 19 ) (X: 14 Y: 21 )]
+TestFile_2 NN: Number of Points: 8 Run: 1 Time: 0.019638 Distance: 55.7522[ (X: 14 Y: 21 ) (X: 11 Y: 19 ) (X: 18 Y: 29 ) (X: 19 Y: 30 ) (X: 17 Y: 30 ) (X: 23 Y: 23 ) (X: 24 Y: 18 ) (X: 30 Y: 19 ) (X: 14 Y: 21 )]
+TestFile_2 NN: Number of Points: 8 Run: 2 Time: 0.003619 Distance: 55.7522[ (X: 14 Y: 21 ) (X: 11 Y: 19 ) (X: 18 Y: 29 ) (X: 19 Y: 30 ) (X: 17 Y: 30 ) (X: 23 Y: 23 ) (X: 24 Y: 18 ) (X: 30 Y: 19 ) (X: 14 Y: 21 )]
+Average: 0.009239
+TestFile_2 EXHASUTIVE Number of Points: 8 Run: 0 Time: 37.621878 Dist: 51.1665 Permutations: 40320
+TestFile_2 EXHASUTIVE Number of Points: 8 Run: 1 Time: 41.198364 Dist: 51.1665 Permutations: 40320
+TestFile_2 EXHASUTIVE Number of Points: 8 Run: 2 Time: 37.139488 Dist: 51.1665 Permutations: 40320
+Exhaustive Search Average: 38.6532
 
 Results for: 
-TestFile_3 NN: Number of Points: 7 Run: 0 Time: 0.004533 Distance: 63.7492[ (X: 22 Y: 25 ) (X: 25 Y: 28 ) (X: 28 Y: 27 ) (X: 19 Y: 29 ) (X: 17 Y: 18 ) (X: 11 Y: 12 ) (X: 27 Y: 15 ) (X: 22 Y: 25 )]
-TestFile_3 NN: Number of Points: 7 Run: 1 Time: 0.003204 Distance: 63.7492[ (X: 22 Y: 25 ) (X: 25 Y: 28 ) (X: 28 Y: 27 ) (X: 19 Y: 29 ) (X: 17 Y: 18 ) (X: 11 Y: 12 ) (X: 27 Y: 15 ) (X: 22 Y: 25 )]
-TestFile_3 NN: Number of Points: 7 Run: 2 Time: 0.002838 Distance: 63.7492[ (X: 22 Y: 25 ) (X: 25 Y: 28 ) (X: 28 Y: 27 ) (X: 19 Y: 29 ) (X: 17 Y: 18 ) (X: 11 Y: 12 ) (X: 27 Y: 15 ) (X: 22 Y: 25 )]
-Average: 0.003525
-TestFile_3 EXHASUTIVE Number of Points: 7 Run: 0 Time: 4.304161 Dist: 59.6531 Permutations: 5040
-TestFile_3 EXHASUTIVE Number of Points: 7 Run: 1 Time: 4.367669 Dist: 59.6531 Permutations: 5040
-TestFile_3 EXHASUTIVE Number of Points: 7 Run: 2 Time: 5.376857 Dist: 59.6531 Permutations: 5040
-Exhaustive Search Average: 4.6829
+TestFile_3 NN: Number of Points: 7 Run: 0 Time: 0.005154 Distance: 63.7492[ (X: 22 Y: 25 ) (X: 25 Y: 28 ) (X: 28 Y: 27 ) (X: 19 Y: 29 ) (X: 17 Y: 18 ) (X: 11 Y: 12 ) (X: 27 Y: 15 ) (X: 22 Y: 25 )]
+TestFile_3 NN: Number of Points: 7 Run: 1 Time: 0.003638 Distance: 63.7492[ (X: 22 Y: 25 ) (X: 25 Y: 28 ) (X: 28 Y: 27 ) (X: 19 Y: 29 ) (X: 17 Y: 18 ) (X: 11 Y: 12 ) (X: 27 Y: 15 ) (X: 22 Y: 25 )]
+TestFile_3 NN: Number of Points: 7 Run: 2 Time: 0.003479 Distance: 63.7492[ (X: 22 Y: 25 ) (X: 25 Y: 28 ) (X: 28 Y: 27 ) (X: 19 Y: 29 ) (X: 17 Y: 18 ) (X: 11 Y: 12 ) (X: 27 Y: 15 ) (X: 22 Y: 25 )]
+Average: 0.00409033
+TestFile_3 EXHASUTIVE Number of Points: 7 Run: 0 Time: 3.918417 Dist: 59.6531 Permutations: 5040
+TestFile_3 EXHASUTIVE Number of Points: 7 Run: 1 Time: 4.212442 Dist: 59.6531 Permutations: 5040
+TestFile_3 EXHASUTIVE Number of Points: 7 Run: 2 Time: 4.106476 Dist: 59.6531 Permutations: 5040
+Exhaustive Search Average: 4.07911
 /////////////////////////////////////////////////////////////////
-TestFile_4 NN: Number of Points: 46 Run: 0 Time: 0.124857 Distance: 157.911
-TestFile_4 NN: Number of Points: 46 Run: 1 Time: 0.114849 Distance: 157.911
-TestFile_4 NN: Number of Points: 46 Run: 2 Time: 0.116622 Distance: 157.911
-Average: 0.118776
-TestFile_5 NN: Number of Points: 50 Run: 0 Time: 0.133328 Distance: 157.801
-TestFile_5 NN: Number of Points: 50 Run: 1 Time: 0.133062 Distance: 157.801
-TestFile_5 NN: Number of Points: 50 Run: 2 Time: 0.132297 Distance: 157.801
-Average: 0.132896
-TestFile_6 NN: Number of Points: 47 Run: 0 Time: 0.121772 Distance: 150.804
-TestFile_6 NN: Number of Points: 47 Run: 1 Time: 0.119579 Distance: 150.804
-TestFile_6 NN: Number of Points: 47 Run: 2 Time: 0.119364 Distance: 150.804
-Average: 0.120238
-TestFile_7 NN: Number of Points: 44 Run: 0 Time: 0.152574 Distance: 151.544
-TestFile_7 NN: Number of Points: 44 Run: 1 Time: 0.107093 Distance: 151.544
-TestFile_7 NN: Number of Points: 44 Run: 2 Time: 0.107570 Distance: 151.544
-Average: 0.122412
+TestFile_4 NN: Number of Points: 46 Run: 0 Time: 0.108877 Distance: 157.911
+TestFile_4 NN: Number of Points: 46 Run: 1 Time: 0.149625 Distance: 157.911
+TestFile_4 NN: Number of Points: 46 Run: 2 Time: 0.105484 Distance: 157.911
+Average: 0.121329
+TestFile_5 NN: Number of Points: 50 Run: 0 Time: 0.196697 Distance: 157.801
+TestFile_5 NN: Number of Points: 50 Run: 1 Time: 0.123690 Distance: 157.801
+TestFile_5 NN: Number of Points: 50 Run: 2 Time: 0.105351 Distance: 157.801
+Average: 0.141913
+TestFile_6 NN: Number of Points: 47 Run: 0 Time: 0.096513 Distance: 150.804
+TestFile_6 NN: Number of Points: 47 Run: 1 Time: 0.094672 Distance: 150.804
+TestFile_6 NN: Number of Points: 47 Run: 2 Time: 0.093662 Distance: 150.804
+Average: 0.094949
+TestFile_7 NN: Number of Points: 44 Run: 0 Time: 0.085825 Distance: 151.544
+TestFile_7 NN: Number of Points: 44 Run: 1 Time: 0.139902 Distance: 151.544
+TestFile_7 NN: Number of Points: 44 Run: 2 Time: 0.100940 Distance: 151.544
+Average: 0.108889
