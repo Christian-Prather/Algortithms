@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/Documents/Algorithms_Project1/Point.h
+vector
+-
+
+/home/christian/Documents/Algorithms_Project1/helpers.h
+Point.h
+/home/christian/Documents/Algorithms_Project1/Point.h
+
+/home/christian/Documents/Algorithms_Project1/main.cpp
+iostream
+-
+fstream
+-
+Point.h
+/home/christian/Documents/Algorithms_Project1/Point.h
+helpers.h
+/home/christian/Documents/Algorithms_Project1/helpers.h
+sstream
+-
+queue
+/home/christian/Documents/Algorithms_Project1/queue
+

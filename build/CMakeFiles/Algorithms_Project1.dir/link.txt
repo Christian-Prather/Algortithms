@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/Algorithms_Project1.dir/main.cpp.o CMakeFiles/Algorithms_Project1.dir/Point.cpp.o CMakeFiles/Algorithms_Project1.dir/helpers.cpp.o CMakeFiles/Algorithms_Project1.dir/exhaustive.cpp.o  -o Algorithms_Project1 

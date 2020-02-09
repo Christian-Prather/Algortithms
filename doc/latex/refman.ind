@@ -1,0 +1,172 @@
+\begin{theindex}
+
+  \item {/home/christian/Documents/Algorithms\_Project1/CMakeLists.txt}, 
+		\hyperpage{9}
+  \item {/home/christian/Documents/Algorithms\_Project1/Point.cpp}, 
+		\hyperpage{16}
+  \item {/home/christian/Documents/Algorithms\_Project1/Point.h}, 
+		\hyperpage{16}
+  \item {/home/christian/Documents/Algorithms\_Project1/exhaustive.cpp}, 
+		\hyperpage{9}
+  \item {/home/christian/Documents/Algorithms\_Project1/exhaustive.h}, 
+		\hyperpage{10}
+  \item {/home/christian/Documents/Algorithms\_Project1/helpers.cpp}, 
+		\hyperpage{11}
+  \item {/home/christian/Documents/Algorithms\_Project1/helpers.h}, 
+		\hyperpage{12}
+  \item {/home/christian/Documents/Algorithms\_Project1/main.cpp}, 
+		\hyperpage{14}
+
+  \indexspace
+
+  \item {addToPath}
+    \subitem {helpers.h}, \hyperpage{13}
+  \item {allPoints}
+    \subitem {main.cpp}, \hyperpage{15}
+  \item {analysis}
+    \subitem {main.cpp}, \hyperpage{14}
+
+  \indexspace
+
+  \item {buildRandomList}
+    \subitem {main.cpp}, \hyperpage{14}
+
+  \indexspace
+
+  \item {calculateDistance}
+    \subitem {helpers.cpp}, \hyperpage{12}
+    \subitem {helpers.h}, \hyperpage{13}
+  \item {calculateExhaustive}
+    \subitem {exhaustive.cpp}, \hyperpage{9}
+    \subitem {exhaustive.h}, \hyperpage{11}
+  \item {cleanUp}
+    \subitem {main.cpp}, \hyperpage{14}
+  \item {copyAllPoints}
+    \subitem {main.cpp}, \hyperpage{15}
+  \item {createPermutations}
+    \subitem {exhaustive.cpp}, \hyperpage{9}
+    \subitem {exhaustive.h}, \hyperpage{11}
+
+  \indexspace
+
+  \item {exhaustive.cpp}
+    \subitem {calculateExhaustive}, \hyperpage{9}
+    \subitem {createPermutations}, \hyperpage{9}
+    \subitem {getMinDist}, \hyperpage{10}
+    \subitem {getPermutations}, \hyperpage{10}
+    \subitem {minDist}, \hyperpage{10}
+    \subitem {permutations}, \hyperpage{10}
+    \subitem {potentialPaths}, \hyperpage{10}
+  \item {exhaustive.h}
+    \subitem {calculateExhaustive}, \hyperpage{11}
+    \subitem {createPermutations}, \hyperpage{11}
+    \subitem {getMinDist}, \hyperpage{11}
+    \subitem {getPermutations}, \hyperpage{11}
+
+  \indexspace
+
+  \item {finalDistance}
+    \subitem {main.cpp}, \hyperpage{16}
+
+  \indexspace
+
+  \item {generateBigRandomN}
+    \subitem {helpers.cpp}, \hyperpage{12}
+    \subitem {helpers.h}, \hyperpage{13}
+  \item {generateFiles}
+    \subitem {main.cpp}, \hyperpage{15}
+  \item {generateRandomN}
+    \subitem {helpers.cpp}, \hyperpage{12}
+    \subitem {helpers.h}, \hyperpage{13}
+  \item {generateRandomPoints}
+    \subitem {helpers.cpp}, \hyperpage{12}
+    \subitem {helpers.h}, \hyperpage{13}
+  \item {getMinDist}
+    \subitem {exhaustive.cpp}, \hyperpage{10}
+    \subitem {exhaustive.h}, \hyperpage{11}
+  \item {getPermutations}
+    \subitem {exhaustive.cpp}, \hyperpage{10}
+    \subitem {exhaustive.h}, \hyperpage{11}
+
+  \indexspace
+
+  \item {helpers.cpp}
+    \subitem {calculateDistance}, \hyperpage{12}
+    \subitem {generateBigRandomN}, \hyperpage{12}
+    \subitem {generateRandomN}, \hyperpage{12}
+    \subitem {generateRandomPoints}, \hyperpage{12}
+  \item {helpers.h}
+    \subitem {addToPath}, \hyperpage{13}
+    \subitem {calculateDistance}, \hyperpage{13}
+    \subitem {generateBigRandomN}, \hyperpage{13}
+    \subitem {generateRandomN}, \hyperpage{13}
+    \subitem {generateRandomPoints}, \hyperpage{13}
+
+  \indexspace
+
+  \item {loadFile}
+    \subitem {main.cpp}, \hyperpage{15}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.cpp}, \hyperpage{15}
+  \item {main.cpp}
+    \subitem {allPoints}, \hyperpage{15}
+    \subitem {analysis}, \hyperpage{14}
+    \subitem {buildRandomList}, \hyperpage{14}
+    \subitem {cleanUp}, \hyperpage{14}
+    \subitem {copyAllPoints}, \hyperpage{15}
+    \subitem {finalDistance}, \hyperpage{16}
+    \subitem {generateFiles}, \hyperpage{15}
+    \subitem {loadFile}, \hyperpage{15}
+    \subitem {main}, \hyperpage{15}
+    \subitem {numberOfFiles}, \hyperpage{16}
+    \subitem {numberPoints}, \hyperpage{16}
+    \subitem {primaryLogic}, \hyperpage{15}
+    \subitem {thePath}, \hyperpage{16}
+  \item {minDist}
+    \subitem {exhaustive.cpp}, \hyperpage{10}
+
+  \indexspace
+
+  \item {numberOfFiles}
+    \subitem {main.cpp}, \hyperpage{16}
+  \item {numberPoints}
+    \subitem {main.cpp}, \hyperpage{16}
+
+  \indexspace
+
+  \item {operator$<$}
+    \subitem {Point}, \hyperpage{8}
+
+  \indexspace
+
+  \item {permutations}
+    \subitem {exhaustive.cpp}, \hyperpage{10}
+  \item {Point}, \hyperpage{7}
+    \subitem {operator$<$}, \hyperpage{8}
+    \subitem {Point}, \hyperpage{7}
+    \subitem {x}, \hyperpage{8}
+    \subitem {y}, \hyperpage{8}
+  \item {potentialPaths}
+    \subitem {exhaustive.cpp}, \hyperpage{10}
+  \item {primaryLogic}
+    \subitem {main.cpp}, \hyperpage{15}
+
+  \indexspace
+
+  \item {thePath}
+    \subitem {main.cpp}, \hyperpage{16}
+
+  \indexspace
+
+  \item {x}
+    \subitem {Point}, \hyperpage{8}
+
+  \indexspace
+
+  \item {y}
+    \subitem {Point}, \hyperpage{8}
+
+\end{theindex}

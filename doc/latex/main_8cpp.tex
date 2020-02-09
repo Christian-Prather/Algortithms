@@ -1,0 +1,127 @@
+\hypertarget{main_8cpp}{}\doxysection{/home/christian/\+Documents/\+Algorithms\+\_\+\+Project1/main.cpp File Reference}
+\label{main_8cpp}\index{/home/christian/Documents/Algorithms\_Project1/main.cpp@{/home/christian/Documents/Algorithms\_Project1/main.cpp}}
+{\ttfamily \#include $<$iostream$>$}\newline
+{\ttfamily \#include $<$fstream$>$}\newline
+{\ttfamily \#include \char`\"{}Point.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}helpers.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}exhaustive.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$sstream$>$}\newline
+{\ttfamily \#include $<$queue$>$}\newline
+{\ttfamily \#include $<$chrono$>$}\newline
+{\ttfamily \#include $<$thread$>$}\newline
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{main_8cpp_ad3092953f3470ab2b372f2ec5b1b7b45}{load\+File}} (string file\+Name)
+\item 
+void \mbox{\hyperlink{main_8cpp_a9b20adfe9da74789f235c36684076ca5}{generate\+Files}} (int min, int max)
+\item 
+void \mbox{\hyperlink{main_8cpp_af81da66e78ebdfec17b4695428b22a17}{primary\+Logic}} (\mbox{\hyperlink{classPoint}{Point}} start\+Point)
+\item 
+void \mbox{\hyperlink{main_8cpp_a9d639c703dad57fee1230a46b33a16a9}{build\+Random\+List}} (int n, int min, int max)
+\item 
+void \mbox{\hyperlink{main_8cpp_ae900b054a1598c54acaa67902f87185d}{clean\+Up}} ()
+\item 
+void \mbox{\hyperlink{main_8cpp_a9298c1bf04af5ce36c18908e1c324735}{analysis}} ()
+\item 
+int \mbox{\hyperlink{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{main}} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{main_8cpp_a96ba9b4a0b48fc92549aff44ee947937}{number\+Points}} = 10
+\item 
+double \mbox{\hyperlink{main_8cpp_ab1ba6dd727d72bdaeac22c4b78013cf4}{final\+Distance}} = 0
+\item 
+int \mbox{\hyperlink{main_8cpp_acf4e42f3f658c7dc4def723dc647784b}{number\+Of\+Files}} = 4
+\item 
+vector$<$ \mbox{\hyperlink{classPoint}{Point}} $>$ \mbox{\hyperlink{main_8cpp_a6f20af06a70408bead36b34a91e74f11}{the\+Path}}
+\item 
+vector$<$ \mbox{\hyperlink{classPoint}{Point}} $>$ \mbox{\hyperlink{main_8cpp_ad4ec56f65828ff9bbddc2c472010a8fb}{all\+Points}}
+\item 
+vector$<$ \mbox{\hyperlink{classPoint}{Point}} $>$ \mbox{\hyperlink{main_8cpp_abcc16956b22a3086149c4ac06ca4fd7a}{copy\+All\+Points}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{main_8cpp_a9298c1bf04af5ce36c18908e1c324735}\label{main_8cpp_a9298c1bf04af5ce36c18908e1c324735}} 
+\index{main.cpp@{main.cpp}!analysis@{analysis}}
+\index{analysis@{analysis}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{analysis()}{analysis()}}
+{\footnotesize\ttfamily void analysis (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Primary analysis file \mbox{\Hypertarget{main_8cpp_a9d639c703dad57fee1230a46b33a16a9}\label{main_8cpp_a9d639c703dad57fee1230a46b33a16a9}} 
+\index{main.cpp@{main.cpp}!buildRandomList@{buildRandomList}}
+\index{buildRandomList@{buildRandomList}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{buildRandomList()}{buildRandomList()}}
+{\footnotesize\ttfamily void build\+Random\+List (\begin{DoxyParamCaption}\item[{int}]{n,  }\item[{int}]{min,  }\item[{int}]{max }\end{DoxyParamCaption})}
+
+Used when testing manually \mbox{\Hypertarget{main_8cpp_ae900b054a1598c54acaa67902f87185d}\label{main_8cpp_ae900b054a1598c54acaa67902f87185d}} 
+\index{main.cpp@{main.cpp}!cleanUp@{cleanUp}}
+\index{cleanUp@{cleanUp}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{cleanUp()}{cleanUp()}}
+{\footnotesize\ttfamily void clean\+Up (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{main_8cpp_a9b20adfe9da74789f235c36684076ca5}\label{main_8cpp_a9b20adfe9da74789f235c36684076ca5}} 
+\index{main.cpp@{main.cpp}!generateFiles@{generateFiles}}
+\index{generateFiles@{generateFiles}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{generateFiles()}{generateFiles()}}
+{\footnotesize\ttfamily void generate\+Files (\begin{DoxyParamCaption}\item[{int}]{min,  }\item[{int}]{max }\end{DoxyParamCaption})}
+
+\textbackslash{} A function for generating test files \mbox{\Hypertarget{main_8cpp_ad3092953f3470ab2b372f2ec5b1b7b45}\label{main_8cpp_ad3092953f3470ab2b372f2ec5b1b7b45}} 
+\index{main.cpp@{main.cpp}!loadFile@{loadFile}}
+\index{loadFile@{loadFile}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{loadFile()}{loadFile()}}
+{\footnotesize\ttfamily void load\+File (\begin{DoxyParamCaption}\item[{string}]{file\+Name }\end{DoxyParamCaption})}
+
+\textbackslash{} A function for loading a parsing test files \mbox{\Hypertarget{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}} 
+\index{main.cpp@{main.cpp}!main@{main}}
+\index{main@{main}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{main_8cpp_af81da66e78ebdfec17b4695428b22a17}\label{main_8cpp_af81da66e78ebdfec17b4695428b22a17}} 
+\index{main.cpp@{main.cpp}!primaryLogic@{primaryLogic}}
+\index{primaryLogic@{primaryLogic}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{primaryLogic()}{primaryLogic()}}
+{\footnotesize\ttfamily void primary\+Logic (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{classPoint}{Point}}}]{start\+Point }\end{DoxyParamCaption})}
+
+\textbackslash{}\+Function used for nearest-\/neigbor calculations 
+
+\doxysubsection{Variable Documentation}
+\mbox{\Hypertarget{main_8cpp_ad4ec56f65828ff9bbddc2c472010a8fb}\label{main_8cpp_ad4ec56f65828ff9bbddc2c472010a8fb}} 
+\index{main.cpp@{main.cpp}!allPoints@{allPoints}}
+\index{allPoints@{allPoints}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{allPoints}{allPoints}}
+{\footnotesize\ttfamily vector$<$\mbox{\hyperlink{classPoint}{Point}}$>$ all\+Points}
+
+\mbox{\Hypertarget{main_8cpp_abcc16956b22a3086149c4ac06ca4fd7a}\label{main_8cpp_abcc16956b22a3086149c4ac06ca4fd7a}} 
+\index{main.cpp@{main.cpp}!copyAllPoints@{copyAllPoints}}
+\index{copyAllPoints@{copyAllPoints}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{copyAllPoints}{copyAllPoints}}
+{\footnotesize\ttfamily vector$<$\mbox{\hyperlink{classPoint}{Point}}$>$ copy\+All\+Points}
+
+\mbox{\Hypertarget{main_8cpp_ab1ba6dd727d72bdaeac22c4b78013cf4}\label{main_8cpp_ab1ba6dd727d72bdaeac22c4b78013cf4}} 
+\index{main.cpp@{main.cpp}!finalDistance@{finalDistance}}
+\index{finalDistance@{finalDistance}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{finalDistance}{finalDistance}}
+{\footnotesize\ttfamily double final\+Distance = 0}
+
+\mbox{\Hypertarget{main_8cpp_acf4e42f3f658c7dc4def723dc647784b}\label{main_8cpp_acf4e42f3f658c7dc4def723dc647784b}} 
+\index{main.cpp@{main.cpp}!numberOfFiles@{numberOfFiles}}
+\index{numberOfFiles@{numberOfFiles}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{numberOfFiles}{numberOfFiles}}
+{\footnotesize\ttfamily int number\+Of\+Files = 4}
+
+\mbox{\Hypertarget{main_8cpp_a96ba9b4a0b48fc92549aff44ee947937}\label{main_8cpp_a96ba9b4a0b48fc92549aff44ee947937}} 
+\index{main.cpp@{main.cpp}!numberPoints@{numberPoints}}
+\index{numberPoints@{numberPoints}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{numberPoints}{numberPoints}}
+{\footnotesize\ttfamily int number\+Points = 10}
+
+\mbox{\Hypertarget{main_8cpp_a6f20af06a70408bead36b34a91e74f11}\label{main_8cpp_a6f20af06a70408bead36b34a91e74f11}} 
+\index{main.cpp@{main.cpp}!thePath@{thePath}}
+\index{thePath@{thePath}!main.cpp@{main.cpp}}
+\doxysubsubsection{\texorpdfstring{thePath}{thePath}}
+{\footnotesize\ttfamily vector$<$\mbox{\hyperlink{classPoint}{Point}}$>$ the\+Path}
+
